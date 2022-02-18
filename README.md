@@ -10,6 +10,6 @@
 <br>
 <hr />
 
-<img src="https://github-readme-stats.vercel.app/api?username=R-twitzy&show_icons=true&include_all_commits=true&theme=radical" alt="R-twitzy's github stats" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=R-twitzy&show_icons=true&include_all_commits=true&theme=radical" alt="R-twitzy's github stats" width="50%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-twitzy&layout=compact&theme=radical" width="35%"/>
 <br>
