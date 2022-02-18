@@ -10,9 +10,5 @@
 <hr />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=R-twitzy&show_icons=true&include_all_commits=true&theme=radical" alt="R-twitzy's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-twitzy&layout=compact&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-twitzy&layout=compact&theme=radical" />
 <br>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-twitzy&theme=github_dark" />
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=R-twitzy&theme=github_dark" />
-
-
