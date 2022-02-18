@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=r-twitzy.r-twitzy)
+<img align="left" src="https://visitor-badge.glitch.me/badge?page_id=r-twitzy.r-twitzy" />
 <a href="https://www.instagram.com/m.ramaaa__/">
   <img align="left" alt="Rama's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -11,6 +11,6 @@
 <hr />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=R-twitzy&show_icons=true&include_all_commits=true&theme=radical" alt="R-twitzy's github stats" />
-
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-twitzy&layout=compact&theme=radical" />
 <br>
