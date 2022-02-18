@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/m.ramaaa__/">
   <img align="left" alt="Rama's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="hhttps://www.linkedin.com/in/walyul-ahdi-maulana-ramadhan-4574b6231/">
+<a href="https://www.linkedin.com/in/walyul-ahdi-maulana-ramadhan-4574b6231/">
   <img align="left" alt="Rama's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
