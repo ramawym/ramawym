@@ -1,5 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-
+![Visitor Count](https://profile-counter.glitch.me/R-twitzy/count.svg)
 ![](https://komarev.com/ghpvc/?username=R-twitzy&color=blueviolet)
 <a href="https://www.instagram.com/m.ramaaa__/">
   <img align="left" alt="Rama's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
