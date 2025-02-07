@@ -14,7 +14,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramawym&show_icons=true&include_all_commits=true&theme=radical" alt="ramawym's github stats" width="50%"/>
   <br>
   <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-twitzy&layout=compact&theme=radical" width="42%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramawym&layout=compact&theme=radical" width="42%"/>
 </div>
   
 <br>
